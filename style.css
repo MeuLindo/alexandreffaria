@@ -1,0 +1,21 @@
+header .container svg{
+	width: 150px;
+	height: 149px;
+	display: block;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+header .page-header{
+	text-align: right;
+	font-family: 'Comfortaa', cursive;
+}
+
+.container li{
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 30px;
+
+}
