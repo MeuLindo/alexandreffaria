@@ -8,14 +8,22 @@ header .container img{
 	margin-bottom: 10px;
 }
 
-header .page-header{
-	text-align: right;
-	font-family: 'Comfortaa', cursive;
+header .titulo{
+	font-family: "acier-bat-noir",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
 }
 
 .container li{
 	margin: auto;
 	padding-top: 50px;
 	padding-bottom: 30px;
+}
 
+article .container{
+	font-family: "sutro",serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 1.1618em;
 }
